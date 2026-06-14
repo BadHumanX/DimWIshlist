@@ -1,5 +1,3 @@
-dimwishlist:item=3431536253&perks=,,1570399071,243981275,
-
 #PSI Aeterna IV - Pulse Riffle A Tier
 dimwishlist:item=3556730800&perks=,,1017229899,3966416502,
 
@@ -14,4 +12,3 @@ dimwishlist:item=3326135421&perks=,,4293542123,3824105627
 
 #Something Something - Sniper Rifle
 dimwishlist:item=690412397&perks=,,3400784728,3891536761
-
