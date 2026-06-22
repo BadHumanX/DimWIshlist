@@ -1,2 +1,34 @@
-#exactname:"the ringing nail"(exactperk:incandescent exactperk:firefly
+######################################################################################################
+#########################AUTO RIFLES##################################################################
+
+#exactname:"the ringing nail"(exactperk:incandescent exactperk:firefly)
 dimwishlist:item=3326135421&perks=,,4293542123,3824105627  
+
+
+
+
+
+
+#PSI Aeterna IV
+dimwishlist:item=3556730800&perks=,,1017229899,3966416502,
+
+#The Blast Furnance
+dimwishlist:item=52683113&perks=,,3891536761,3640170453
+
+
+#####SMG##########
+dimwishlist:item=3886416794&perks=1087426260,1549370717,1817983009
+
+
+#The Spiteful Fang
+dimwishlist:item=1094998581&perks=,,124408337,3824105627
+
+
+
+#Something Something
+dimwishlist:item=690412397&perks=,,3400784728,3891536761
+
+
+
+#Eight Six
+dimwishlist:item=2344383760&perks=436053704,52780822,2590710093,1089671869,4232410959
