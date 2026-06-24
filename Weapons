@@ -42,6 +42,8 @@ dimwishlist:item=2344383760&perks=436053704,52780822,2590710093,1089671869,42324
 dimwishlist:item=3961462214&perks=839105230,3142289711,776531651,2048641572,2327629476
 #exactname:"kindled orchid" (exactperk:"destabilizing rounds" exactperk:"repulsor brace")
 
+#exactname:"service revolver" (exactperk:"rapid hit" exactperk:rampage)
+dimwishlist:item=3796682229&perks=,,247725512,3425386926,3846229553
 
 ######################################################################################################
 #########################  Fusion Riffles  ##################################################################
