@@ -56,7 +56,10 @@ dimwishlist:item=2150643740&perks=1523832109,2594592626
 dimwishlist:item=2624561525&perks=,,,124408337,1621842933
 #exactname:"prolonged engagement" (exactperk:subsistence exactperk:headstone)
 
-
+######################################################################################################
+#########################  SCOUT RIFLES  ##################################################################
+dimwishlist:item=1957301533&perks=,,3400784728,3891536761,1621842933
+#exactname:"nameless midnight" (exactperk:"kinetic tremors" exactperk:"triple tap")
 
 
 ######################################################################################################
