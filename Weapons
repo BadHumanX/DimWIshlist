@@ -1,6 +1,5 @@
 ######################################################################################################
 #########################AUTO RIFLES##################################################################
-
 #exactname:"the ringing nail"(exactperk:incandescent exactperk:firefly)
 dimwishlist:item=3326135421&perks=,,4293542123,3824105627  
 
@@ -8,31 +7,24 @@ dimwishlist:item=3326135421&perks=,,4293542123,3824105627
 dimwishlist:item=52683113&perks=,,3891536761,3640170453
 
 
-
-
+######################################################################################################
+#########################Pulse RIFLES##################################################################
 #PSI Aeterna IV
 dimwishlist:item=3556730800&perks=,,1017229899,3966416502,
 
 
-
-
 #####SMG##########
 dimwishlist:item=3886416794&perks=1087426260,1549370717,1817983009
-
-
 exactname:gunburn ((exactperk:"lead from light" or exactperk:"bewildering burst") (exactperk:"attrition orbs" or exactperk:"one for all" or exactperk:"kinetic tremors"))
-
 
 #The Spiteful Fang
 dimwishlist:item=1094998581&perks=,,124408337,3824105627
-
 
 
 ######################################################################################################
 #########################  SNIPERS  ##################################################################
 #exactname:"something something" exactperk:("triple tap" exactperk:"kinetic tremors")
 dimwishlist:item=690412397&perks=,,3400784728,3891536761
-
 
 #exactname:"allen 05" ((exactperk:"fourth time's the charm") (exactperk:"precision instrument" or exactperk:"firing line"))
 dimwishlist:item=423677697&perks=839105230,3142289711,1354429876,555281244,3018257738
@@ -41,11 +33,8 @@ dimwishlist:item=423677697&perks=839105230,3142289711,1354429876,1771339417,3018
 
 ######################################################################################################
 #########################  SWORDS  ##################################################################
-
 #Eight Six
 dimwishlist:item=2344383760&perks=436053704,52780822,2590710093,1089671869,4232410959
-
-
 
 
 ######################################################################################################
@@ -54,14 +43,15 @@ dimwishlist:item=3961462214&perks=839105230,3142289711,776531651,2048641572,2327
 exactname:"kindled orchid" (exactperk:"destabilizing rounds" exactperk:"repulsor brace")
 
 
-
 ######################################################################################################
 #########################  Fusion Riffles  ##################################################################
-exactname:"null composure" (exactperk:reconstruction exactperk:"controlled burst")
+#exactname:"null composure" (exactperk:reconstruction exactperk:"controlled burst")
 dimwishlist:item=2150643740&perks=1523832109,2594592626
+
+#exactname:"nox sidereal iv" -((exactperk:"Demolitionist"exactperk:"Clown Cartridge"exactperk:"Stats for All")(exactperk:"Crystalline Corpsebloom" exactperk:"Reservoir Burst"))
 
 
 
 ######################################################################################################
 #########################  SHOTGUN  ##################################################################
-exactname:"hawthorne's field-forged shotgun" ((exactperk:"threat detector" exactperk:"lead from gold" exactperk:"grave robber") (exactperk:"chill clip" exactperk:"master of arms"))
+#exactname:"hawthorne's field-forged shotgun" ((exactperk:"threat detector" exactperk:"lead from gold" exactperk:"grave robber") (exactperk:"chill clip" exactperk:"master of arms"))
