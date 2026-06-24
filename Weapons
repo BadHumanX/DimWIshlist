@@ -51,6 +51,13 @@ dimwishlist:item=2150643740&perks=1523832109,2594592626
 #exactname:"nox sidereal iv" -((exactperk:"Demolitionist"exactperk:"Clown Cartridge"exactperk:"Stats for All")(exactperk:"Crystalline Corpsebloom" exactperk:"Reservoir Burst"))
 
 
+######################################################################################################
+#########################  SUB MACHINE  ##################################################################
+dimwishlist:item=2624561525&perks=,,,124408337,1621842933
+#exactname:"prolonged engagement" (exactperk:subsistence exactperk:headstone)
+
+
+
 
 ######################################################################################################
 #########################  SHOTGUN  ##################################################################
