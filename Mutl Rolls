@@ -1,0 +1,4 @@
+(exactname:"tatara gaze" (exactperk:"rapid hit" or exactperk:outlaw) (exactperk:"box breathing" or exactperk:"kill clip"))
+or
+(exactname:"main ingredient"  ((exactperk:"enhanced battery" or exactperk:"liquid coils") (exactperk:"stats for all" or exactperk:demolitionist)))
+or
